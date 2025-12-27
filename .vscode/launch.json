@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/krbip/Downloads/takeuforward/DSA-Complete/TakeUForward-DSA",
-      "program": "c:/Users/krbip/Downloads/takeuforward/DSA-Complete/TakeUForward-DSA/build/Debug/outDebug",
+      "cwd": "e:/Downloads/DSA-practice",
+      "program": "e:/Downloads/DSA-practice/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
